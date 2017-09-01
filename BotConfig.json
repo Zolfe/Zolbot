@@ -1,0 +1,17 @@
+{
+  "key":"MzQ3NTg0NjI1NTM2OTI1NzA3.DHalAA.MyePQ2-PnB36ZgnPqjME0OWveiE",
+  "prefix":"~",
+  "ownerID" : ["345254142454923265", "217215496267890689", "160168328520794112", "236952793842188299"],
+  "adminID" : ["217215496267890689", "345254142454923265"],
+  "preload": true,
+  "shardCount": 0,
+  "db": {
+    "use_db":false,
+    "auth":false,
+    "user":"",
+    "pass":"",
+    "host":"",
+    "port":"",
+    "DBName":""
+  }
+}
