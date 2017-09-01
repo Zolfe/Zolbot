@@ -1,5 +1,5 @@
 
-<p align="center"><img src="http://i.imgur.com/RGB9CYf.png"></p>
+<p align="center"><img src="http://i.imgur.com/Kc3cDWa.png"></p>
 <h1 align="center">Zolbot</h1>
 
 Developed by Far Aiir and Zolfe
