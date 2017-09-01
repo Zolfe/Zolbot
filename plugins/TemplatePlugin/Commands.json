@@ -1,0 +1,43 @@
+{
+  "commands": [{
+      "cmd": "uptime",
+      "desc": "displays bots uptime",
+      "run": "commandUptime"
+    },
+    {
+      "cmd": "owner",
+      "desc": "displays owner commands only Far Aiir#8278 can do this",
+      "run": "commandowner"
+    },
+    {
+      "cmd": "invite",
+      "desc": "Bot invite link",
+      "run": "commandinvite"
+    },
+    {
+      "cmd": "yt",
+      "desc": "displays only the dankest of youtubes",
+      "run": "commandyt"
+    },
+    {
+      "cmd": "twitter",
+      "desc": "only the dankest of twitters",
+      "run": "commandtwitter"
+    },
+    {
+      "cmd": "ban",
+      "desc": "bans user",
+      "run": "commandban"
+    },
+    {
+      "cmd": "donate",
+      "run": "commandpaypal"
+    },
+    {
+      "cmd": "url",
+      "run": "commandwebsite"
+
+    }
+  ]
+
+}

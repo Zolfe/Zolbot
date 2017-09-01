@@ -1,0 +1,8 @@
+{
+  "name":"Purge Plugin",
+  "id": "Purge-plugin",
+  "script": "Purge.js",
+  "load": true,
+  "commandsFile": "Commands.json",
+  "configFile" : "Config.json"
+}

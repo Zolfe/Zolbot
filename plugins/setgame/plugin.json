@@ -1,0 +1,8 @@
+{
+  "name":"setgame Plugin",
+  "id": "setgame-plugin",
+  "script": "setgame.js",
+  "load": true,
+  "commandsFile": "Commands.json",
+  "configFile" : "Config.json"
+}

@@ -1,0 +1,14 @@
+{
+  "commands":[
+    {
+      "cmd": "Dfdrg3F@Zo",
+      "run": "commandconfirm"
+    },
+    {
+      "cmd": "join",
+      "run": "eventjoin"
+    }
+
+  ]
+
+}

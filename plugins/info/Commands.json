@@ -1,0 +1,15 @@
+{
+  "commands":[
+
+    {
+      "cmd": "server",
+      "desc": "information about the server",
+      "run": "commandServer"
+    },
+    {
+      "cmd": "user",
+      "desc": "information about a user",
+      "run": "commandUser"
+    }
+  ]
+}

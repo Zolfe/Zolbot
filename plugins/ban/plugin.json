@@ -1,0 +1,8 @@
+{
+  "name":"ban Plugin",
+  "id": "ban-plugin",
+  "script": "ban.js",
+  "load": true,
+  "commandsFile": "Commands.json",
+  "configFile" : "Config.json"
+}

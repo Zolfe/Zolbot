@@ -1,0 +1,57 @@
+{
+  "commands": [{
+      "cmd": "eval",
+      "desc": "evaluates",
+      "run": "commandeval"
+    },
+    {
+      "cmd": "exec",
+      "desc": "kys",
+      "run": "commandexec"
+    },
+    {
+      "cmd": "help",
+      "run": "commandowner"
+    },
+    {
+      "cmd": "ss",
+      "run": "commandstatus"
+    },
+    {
+      "cmd": "info",
+      "run": "commandinfo"
+    },
+    {
+      "cmd": "uptime",
+      "run": "commandUptime"
+    },
+    {
+      "cmd": "star",
+      "run": "commandstar"
+    },
+    {
+      "cmd": "kick",
+      "run": "commandKick"
+    },
+    {
+      "cmd": "ban",
+      "run": "commandBan"
+    },
+    {
+      "cmd": "sb",
+      "run": "commandSoftban"
+    },
+    {
+      "cmd": "mute",
+      "run": "commandMute"
+    },
+    {
+      "cmd": "purge",
+      "run": "commandDelete"
+    },
+    {
+      "cmd": "sysinfo",
+      "run": "commandSysinfo"
+    }
+  ]
+}

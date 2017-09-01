@@ -1,0 +1,8 @@
+{
+  "name":"info Plugin",
+  "id": "info-plugin",
+  "script": "info.js",
+  "load": true,
+  "commandsFile": "Commands.json",
+  "configFile" : "Config.json"
+}

@@ -1,0 +1,76 @@
+{
+  "commands": [{
+      "cmd": "eval",
+      "desc": "used to evaluate code.",
+      "run": "commandeval"
+    },
+    {
+      "cmd": "exec",
+      "desc": "kys",
+      "run": "commandexec"
+    },
+    {
+      "cmd": "sysinfo",
+      "run": "commandSysinfo"
+    },
+    {
+      "cmd": "uptime",
+      "run": "commandUptime"
+    },
+    {
+      "cmd": "sg",
+      "run": "commandSetGame"
+    },
+    {
+      "cmd": "ban",
+      "desc": "*Bans a member from the server.*",
+      "run": "commandBan"
+    },
+    {
+      "cmd": "kick",
+      "desc": "*Kicks a member from the server.*",
+      "run": "commandKick"
+    },
+    {
+      "cmd": "softban",
+      "desc": "*Softbans a member from the server.*",
+      "run": "commandSoftban"
+    },
+    {
+      "cmd": "mute",
+      "desc": "*Mutes a member in the server.*",
+      "run": "commandMute"
+    },
+    {
+      "cmd": "purge",
+      "desc": "Deletes the specified number of messages (1-100)",
+      "run": "commandDelete"
+    },
+    {
+      "cmd": "yt",
+      "desc": "Displays a link to all of the owners youtubes.",
+      "run": "commandYT"
+    },
+    {
+      "cmd": "twitter",
+      "desc": "Displays a link to all of the owners twitters.",
+      "run": "commandTwitter"
+    },
+    {
+      "cmd": "invite",
+      "desc": "Displays a link to invite Apotheosis to your own server.",
+      "run": "commandinvite"
+    },
+    {
+      "cmd": "donate",
+      "desc": "Displays a link to donate to Zolfe.",
+      "run": "commandDonate"
+    },
+    {
+      "cmd": "url",
+      "desc": "Displays a link to Zolfe's website.",
+      "run": "commandurl"
+    }
+
+  ]
+}
